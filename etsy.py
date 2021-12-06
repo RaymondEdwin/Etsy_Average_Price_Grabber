@@ -1,4 +1,5 @@
 import requests as req
+#make sure to pip install bs4 as well as requests
 from bs4 import BeautifulSoup as bs
 import time
 def Price_info():
